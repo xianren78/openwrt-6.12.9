@@ -1,1 +1,1 @@
-D:/我的文档/GitHub/openwrt-6.12.9/openwrt/build.sh
+openwrt/build.sh
